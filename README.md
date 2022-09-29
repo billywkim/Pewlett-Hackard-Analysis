@@ -8,10 +8,12 @@ The main purpose of this analysis is to provide the company with the total numbe
 
 
 **Retiring Table**
+
 ![Retiring Table](https://user-images.githubusercontent.com/88448731/192924579-f031f867-553e-4ca3-92ca-a851288e7fae.PNG)
 
 
 **Mentorship Eleigibility Table**
+
 ![Mentorship Table](https://user-images.githubusercontent.com/88448731/192924892-f09e698e-2344-4bed-ab2e-d8259be0ef80.PNG)
 
 Based on the two tables created above, there are 4 assumptions we can conclude:
